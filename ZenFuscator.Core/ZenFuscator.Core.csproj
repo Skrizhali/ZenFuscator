@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Helpers\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Stages\" />
+    <PackageReference Include="Colorful.Console" Version="1.2.15" />
+    <PackageReference Include="dnlib" Version="4.2.0" />
   </ItemGroup>
 
 </Project>
